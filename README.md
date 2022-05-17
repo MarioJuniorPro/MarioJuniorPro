@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariojuniorpro&label=Profile%20views&color=0e75b6&style=flat" alt="mariojuniorpro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariojuniorpro&label=Profile%20views&color=0e75b6&style=discord" alt="mariojuniorpro" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mariojuniorpro" target="blank"><img src="https://img.shields.io/twitter/follow/mariojuniorpro?logo=twitter&style=for-the-badge" alt="mariojuniorpro" /></a> </p>
 
@@ -30,7 +30,7 @@
 </div>
 
 <div>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariojuniorpro&theme=dracula&row=2&column=3" alt="mariojuniorpro" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariojuniorpro&theme=discord&row=2&column=3" alt="mariojuniorpro" /></a> 
   </div>
 </div>
 
