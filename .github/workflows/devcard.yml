@@ -1,3 +1,5 @@
+name: DevCard
+
 permissions:
   contents: write
 
@@ -8,6 +10,7 @@ on:
       - main
   schedule:
     - cron: "0 0 * * *"
+
 jobs:
   devcard:
     runs-on: ubuntu-latest
