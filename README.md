@@ -1,38 +1,46 @@
-<h1 align="center">Hi 👋, I'm Mario</h1>
+
+
+<table>
+<tr>
+<td>
+  <h1 align="center">Hi 👋, I'm Mario</h1>
 <h3 align="center">Software Engineer</h3>
 
+  - 🔭 I’m currently working on **Tropix.io**
+
+  - 🌱 I’m currently learning **Rust**
+
+  - 👨‍💻 All of my projects are available at [https://github.com/MarioJuniorPro?tab=repositories](https://github.com/MarioJuniorPro?tab=repositories)
+
+  - 💬 Ask me about **Nodejs, Typescript, MongoDB**
+
+  - 📫 How to reach me **mario.junior.pro@gmail.com**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariojuniorpro&label=Profile%20views&color=0e75b6&style=discord" alt="mariojuniorpro" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mariojuniorpro" target="blank"><img src="https://img.shields.io/twitter/follow/mariojuniorpro?logo=twitter&style=for-the-badge" alt="mariojuniorpro" /></a> </p>
-
-- 🔭 I’m currently working on **Tropix.io**
-
-- 🌱 I’m currently learning **Rust**
-
-- 👨‍💻 All of my projects are available at [https://github.com/MarioJuniorPro?tab=repositories](https://github.com/MarioJuniorPro?tab=repositories)
-
-- 💬 Ask me about **Nodejs, Typescript, MongoDB**
-
-- 📫 How to reach me **mario.junior.pro@gmail.com**
-
-
-<div>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariojuniorpro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&langs_count=8"/>
-</div>
-
-<div>
-  <a href="https://github.com/mariojuniorpro">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariojuniorpro&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
-  </a>
-</div>
-
-<div>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariojuniorpro&theme=discord&row=2&column=3" alt="mariojuniorpro" /></a> 
+  <div>
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariojuniorpro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&langs_count=8"/>
   </div>
-</div>
+
+  <div>
+    <a href="https://github.com/mariojuniorpro">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariojuniorpro&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
+    </a>
+  </div>
+
+  <div>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariojuniorpro&theme=discord&row=2&column=3" alt="mariojuniorpro" /></a> 
+    </div>
+  </div>
+</td>
+<td valign="top">
+  <a href="https://app.daily.dev/mariojuniorpro"><img src="https://api.daily.dev/devcards/c5c259b4569d4ff181c37cda9a202a37.png?r=9ir" width="400" alt="Mario Costa Junior's Dev Card"/></a>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariojuniorpro&label=Profile%20views&color=0e75b6&style=discord" alt="mariojuniorpro" /> </p>
+
+  <p align="left"> <a href="https://twitter.com/mariojuniorpro" target="blank"><img src="https://img.shields.io/twitter/follow/mariojuniorpro?logo=twitter&style=for-the-badge" alt="mariojuniorpro" /></a> </p>
+</td>
+</tr>
+</table>
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
