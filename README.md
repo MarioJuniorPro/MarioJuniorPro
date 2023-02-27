@@ -6,7 +6,7 @@
   <h1 align="center">Hi 👋, I'm Mario</h1>
 <h3 align="center">Software Engineer</h3>
 
-  - 🔭 I’m currently working on **Tropix.io**
+  - 🔭 I’m currently working on **W3block.io**
 
   - 🌱 I’m currently learning **Rust**
 
