@@ -6,13 +6,13 @@
   <h1 align="center">Hi 👋, I'm Mario</h1>
 <h3 align="center">Software Engineer</h3>
 
-  - 🔭 I’m currently working on **W3block.io**
+  <!-- 🔭 I’m currently working on **W3block.io** -->
 
-  - 🌱 I’m currently learning **Rust**
+  - 🌱 I’m currently learning **LLMs**
 
   - 👨‍💻 All of my projects are available at [https://github.com/MarioJuniorPro?tab=repositories](https://github.com/MarioJuniorPro?tab=repositories)
 
-  - 💬 Ask me about **Nodejs, Typescript, MongoDB**
+  - 💬 Ask me about **Nodejs, Typescript, Blockchain**
 
   - 📫 How to reach me **mario.junior.pro@gmail.com**
 
